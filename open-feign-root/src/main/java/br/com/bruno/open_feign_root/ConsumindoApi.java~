@@ -1,0 +1,4 @@
+package br.com.bruno.open_feign_root;
+
+public class ConsumindoApi {
+}
